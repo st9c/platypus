@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## This is Platypus Media
 
-You can use the [editor on GitHub](https://github.com/st9c/platypus/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This website was made with [Markdown](https://markdownguide.org) and HTML.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+GitHub Pages theme using Jekyll Merlot.
 
-### Markdown
+### Login or Sign Up
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Click The below to login or sign up:
+```HTML
+<a href = "/login">Log In</a>
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Support, Help, and FAQ
+_How do you Log In?_
+Click on the links above to log in or register.
+_What is Platypus?_
+Platypus is a privacy-advocating, open-sourced social media.
 
-### Jekyll Themes
+### HTML Version: 
+[Click here](/cdn/plt-html.html)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/st9c/platypus/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Liscence and Copyright:
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Platypus Media</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://notifycenter-apps.glitch.me/" property="cc:attributionName" rel="cc:attributionURL">Notify Center Applications</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/st9c/platypus/" rel="dct:source">https://github.com/st9c/platypus/</a>
