@@ -18,7 +18,7 @@ _What is Platypus?_
 Platypus is a privacy-advocating, open-sourced social media.
 
 ### HTML Version: 
-[Click here](/cdn/plt-html.html)
+[Click here](platypus/cdn/plt-html.html)
 
 ### Liscence and Copyright:
 
